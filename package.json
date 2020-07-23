@@ -1,0 +1,24 @@
+{
+  "name": "sldbody",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gen.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jaakkko/sld.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jaakkko/sld/issues"
+  },
+  "homepage": "https://github.com/Jaakkko/sld#readme",
+  "dependencies": {
+    "minify-xml": "^1.0.3",
+    "xml-lite": "^0.8.1"
+  }
+}

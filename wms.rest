@@ -1,0 +1,1 @@
+https://www.paikkatietohakemisto.fi/geonetwork/srv/api/0.1/userselections
